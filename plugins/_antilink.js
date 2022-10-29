@@ -11,7 +11,7 @@ handler.before = function (m, { user, isAdmin, isBotAdmin }) {
 
   if (chat.antiLink && link && !isAdmin && !m.isBaileys && m.isGroup && !m.fromMe) {
   if (user.isAdmin || user.isSuperAdmin) return m.reply ('Te salvaste gil eres admin')
- m.reply(`*「 ANTILINK DETECTADO 🤑」*\nno se permite enlace Lo siento *${name}* Has enviado el enlace de tu grupo. Seras explusado. 🤺`)
+ m.reply(`*「 ANTILINK DETECTADO 🤑」*\nno se permite enlace Lo siento *${name}* Has enviado el enlace de tu grupo. Seras baneado dx. 🤺`)
    this.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
   }
 }
