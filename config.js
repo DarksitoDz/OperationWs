@@ -1,11 +1,11 @@
 //=============『 owner 』================== //
-global.owner = ['5492266466080' , '51935116539'] 
-global.mods = [] 
+global.owner = ['' , ''] 
+global.mods = ['51960578499'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'creador'
-global.numberowner = '5492266466080' , '51935116539'
+global.numberowner = '' , ''
 global.instagram = ''
 global.github = ''
 global.dana = '087892711054'
@@ -13,14 +13,14 @@ global.pulsa = '085212023766'
 global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'superbot-MD'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
+global.namebot = 'OperationWs'
+global.gc = ''
+global.web = 'https://github.com/DarksitoDz' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Pantalla y más 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //cambia a tu foto de bot
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //cambiar esto también
+global.fotonya1 = 'https://operationcc.000webhostapp.com/image.png' //cambia a tu foto de bot
+global.fotonya2 = 'https://operationcc.000webhostapp.com/Operation.png' //cambiar esto también
 global.lolkey = 'Papah-Chan' //asi que es facil remplazarlo, por ejemplo el apikey esta caducado :v
 global.zenzkey = 'BagasPrdn' //cambiar a su apikey si caduca
 global.wm = 'The WhatBot-MD'
@@ -31,13 +31,13 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/fed1c9d94b37511e570d5.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*espere unos minutos...*_'
+global.wait = '_*sea paciente xd...*_'
 global.eror = '_*Error*_'
 global.benar = 'verdad ✅\n'
 global.salah = 'falso ❌\n'
 global.stiker_wait = 'Stiker'
-global.packname = 'toma tu sticker'
-global.author = '© The WhatBot-MD'
+global.packname = 'Son 5 so
+global.author = '© OperationWs'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
