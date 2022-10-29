@@ -123,10 +123,10 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '*╭┈⊰* @subject *⊰┈ ✦*\n*┃✨ BIENVENIDO(A)!!*\n┃💖 @user\n┃📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*\n\n@desc'
-  conn.bye = '*╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⊰*\n┃ @user\n┃ *NO LE SABE AL GRUPO, CHAO!!* 😎\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⊰*'
+  conn.welcome = '*╭┈⊰* @subject *⊰┈ ✦*\n*┃✨ Wenas!!*\n┃💖 @user\n┃📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*\n\n@desc'
+  conn.bye = '*╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⊰*\n┃ @user\n┃ *Un gei menos xd!!* \n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⊰*'
   conn.spromote = '@user ahora eres admin 🤑!'
-  conn.sdemote = '@user ya no sos  admin zorra 🥺!'
+  conn.sdemote = '@user ya no sos  admin por zorra 🥺!'
   conn.handler = handler.handler.bind(conn)
   conn.participantsUpdate = handler.participantsUpdate.bind(conn)
   conn.onDelete = handler.delete.bind(conn)
